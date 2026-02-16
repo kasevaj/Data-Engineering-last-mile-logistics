@@ -1,4 +1,4 @@
-## This is a simulation project for learning how to stream data into a database and then showcase it on a dashboard.
+## **This is a simulation project for learning how to stream data into a database and then showcase it on a dashboard.**
 
 The dataset is a simulated delivery dataset from Kaggle.
 Data streaming is simulated with a Python script that inserts rows into an SQLite database.
@@ -10,7 +10,7 @@ The dashboard is built with Streamlit. It includes:
     Filters by area, vehicle type and weather
     An interactive map of drop-off locations.
 
-## How to use
+## **How to use*'
 1. clone the repo here:
     git clone https://github.com/kasevaj/Data-Engineering-last-mile-logistics.git
     cd Data-Engineering-last-mile-logistics
@@ -22,13 +22,13 @@ The dashboard is built with Streamlit. It includes:
     Frontend -> npm start
     Backend -> npm run dev
 
-## Project structure
+## **Project structure**
 Data-Engineering-last-mile-logistics/
--│
--├── backend/ 
--├── frontend/ 
--├── .env
--└── README.md
+│
+├── backend/ 
+├── frontend/ 
+├── .env
+└── README.md
 
 <img width="545" height="369" alt="image" src="https://github.com/user-attachments/assets/0709d9ab-145d-47a5-9679-88aced7b2370" />
 
