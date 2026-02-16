@@ -22,6 +22,14 @@ The dashboard is built with Streamlit. It includes:
     Frontend -> npm start
     Backend -> npm run dev
 
+## Project structure
+Data-Engineering-last-mile-logistics/
+│
+├── backend/      # API and data processing logic
+├── frontend/     # React frontend application
+├── .env          # Environment variables (not committed)
+└── README.md
+
 <img width="545" height="369" alt="image" src="https://github.com/user-attachments/assets/0709d9ab-145d-47a5-9679-88aced7b2370" />
 
 <img width="538" height="415" alt="image" src="https://github.com/user-attachments/assets/e5d9a67e-6dfc-4c84-829a-de75680e335e" />
